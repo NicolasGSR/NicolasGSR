@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on an application that will connect homeless animals to potential owners.
-- 🌱 I’m currently learning AWS.
 - 🤔 In search of new opportunities.
  
 <div style="display: inline_block"><br>
