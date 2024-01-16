@@ -1,6 +1,5 @@
 
 ### Hi there 👋
-- 🔭 I’m currently working on an application that will connect homeless animals to potential owners.
 - 🤔 In search of new opportunities.
  
 <div style="display: inline_block"><br>
