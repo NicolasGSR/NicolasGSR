@@ -2,12 +2,7 @@
 ### Hi there 👋 Olá!
 
 - 👨‍💻 I currently work with Python, Java, HTML, CSS, PostgreSQL and MySQL.
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me: nicolasgosore@gmail.com 
-
-- 👨‍💻 Atualmente trabalho com Python, Java, HTML, CSS, PostgreSQL and MySQL.
-- 🌱 Atualmente estou aprendendo sobre HTML e CSS.
-- 📫 Como me contactar: nicolasgosore@gmail.com 
+- 📫 How to reach me: nicolasgosore@gmail.com
 
 ##
 
