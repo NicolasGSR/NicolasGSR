@@ -3,7 +3,6 @@
 
 - 👨‍💻 I currently work with Python, Java, HTML, CSS, PostgreSQL and MySQL.
 - 📫 How to reach me: nicolasgosore@gmail.com
-- 🌱 I’m currently learning machine learning and data science.
 
 ##
 
